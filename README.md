@@ -1,6 +1,5 @@
 # Renewable Energy Product Demand Forecasting Analysis by Group 5
 
----
 ## Contributors
 - [Ifeka Odira Hillary](https://github.com/od-blip) 
 - [Adebayo Deborah](https://github.com/Deborah8991?tab=projects)
@@ -21,6 +20,10 @@
 
 ## Project Overview
 This project aims to forecast the demand for renewable energy products in Nigeria by analyzing historical data on inflation, foreign exchange rates, and renewable energy consumption trends. We developed projections for future energy demands, identifying potential challenges and growth opportunities in the renewable energy sector.
+### Forecast Dashboards
+1. Energy Consumption ![image](https://github.com/user-attachments/assets/3e2457dc-1595-46cc-a778-07f33063f80b)
+2. Renewable Share Forecast in Nigeria ![image](https://github.com/user-attachments/assets/ad241b62-438f-4d9a-b6cc-8cf80e54ab4e)
+3. Exchange Rate forecast  ![image](https://github.com/user-attachments/assets/340a89c8-8df6-46ef-b134-58f0bcb7084b)
 
 ## Datasets and Data Cleaning
 
@@ -84,6 +87,9 @@ This project aims to forecast the demand for renewable energy products in Nigeri
 - **Renewable Capacity per Capita** (monitoring individual access trends)
 - **Impact of Inflation on Energy Consumption** (analyzing sensitivity to inflation)
 - **Energy Consumption** (yearly trend and 3-year moving average)
+
+  1. ![image](https://github.com/user-attachments/assets/60a14155-88ab-4274-b040-c1cbd9ac860d)
+
 
 ## References
 - [Kaggle](https://www.kaggle.com)
