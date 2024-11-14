@@ -1,9 +1,6 @@
 # Renewable Energy Product Demand Forecasting Analysis by Group 5
 
 ---
-
-# Renewable Product Demand Forecasting Analysis
-
 ## Contributors
 - [Ifeka Odira Hillary](https://github.com/od-blip) 
 - [Adebayo Deborah](https://github.com/Deborah8991?tab=projects)
