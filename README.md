@@ -20,7 +20,8 @@
 
 ## Project Overview
 This project aims to forecast the demand for renewable energy products in Nigeria by analyzing historical data on inflation, foreign exchange rates, and renewable energy consumption trends. We developed projections for future energy demands, identifying potential challenges and growth opportunities in the renewable energy sector.
-### Forecast Dashboards
+
+### Forecast Visuals
 
 | Title | Visualization|
 |--------------------|-----------------------------------------------------------------------------------------|
@@ -28,6 +29,7 @@ This project aims to forecast the demand for renewable energy products in Nigeri
 |Renewable Share Forecast in Nigeria |![image](https://github.com/user-attachments/assets/ad241b62-438f-4d9a-b6cc-8cf80e54ab4e)
 |Exchange Rate forecast  |![image](https://github.com/user-attachments/assets/340a89c8-8df6-46ef-b134-58f0bcb7084b)
 
+---
 ## Datasets and Data Cleaning
 
 ### 1. Inflation Data
